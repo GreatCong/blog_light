@@ -10,8 +10,3 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
-
-#识别成go
-*.js linguist-language=Go
-*.css linguist-language=Go
-*.html linguist-language=Go
